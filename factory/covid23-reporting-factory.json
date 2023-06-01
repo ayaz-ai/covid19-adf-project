@@ -1,0 +1,9 @@
+{
+	"name": "covid23-reporting-factory",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "86117526-f362-4c0e-b663-a059aa8f8fba",
+		"tenantId": "9469f506-b7b1-41d2-9fb4-9b3fe06939a1"
+	}
+}

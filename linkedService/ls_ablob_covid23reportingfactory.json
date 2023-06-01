@@ -1,0 +1,12 @@
+{
+	"name": "ls_ablob_covid23reportingfactory",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"connectionString": "DefaultEndpointsProtocol=https;AccountName=covid23reportingfactory;EndpointSuffix=core.windows.net;",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQERDRTY2REVGLUQ4NUMtNEI3Qi1CRUUxLTM0MzkzOEJFNkZGMV80NGU3Y2Y0Mi01YWY3LTQ1YjItYWVkMi1lYzQ2N2U4NjA3YWQiDQp9"
+		}
+	}
+}
